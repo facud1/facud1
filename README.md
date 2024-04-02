@@ -2,6 +2,8 @@
 
 🎓Estudié las carreras de Data Analytics y Data Science, las cuales me permitieron adquirir conocimientos de: SQL, Power BI y Python. Ello, tanto de manera teórica como práctica a través de diversos proyectos que realicé.
 
+   Mi objetivo como profesional es mejorar la toma de decisiones en los sectores de Contabilidad, Auditoría y Finanzas, con las nuevas tecnologías de Business Analytics como Power BI, SQL y Python
+
  Mis habilidades técnicas incluyen:
 
 📌 Excel: Manipulación de datos y creación de informes.
