@@ -14,8 +14,6 @@
 
 📌 Power BI: Habilidad en visualización de datos y creación de informes interactivos.
 
-👨‍🎓 En constante aprendizaje del mundo digital.
-
 📥Por cualquier consulta o interés en contactarme, puedes hacerlo mediante un mensaje en mi inbox de Linkedin
 
  Análisis de datos | Data Science | Business Intelligence
